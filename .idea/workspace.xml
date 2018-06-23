@@ -845,8 +845,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="71" />
-    <option name="y" value="28" />
+    <option name="x" value="62" />
+    <option name="y" value="23" />
     <option name="width" value="1260" />
     <option name="height" value="701" />
   </component>
@@ -1209,7 +1209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529769508585</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[paul] add csv files readAll method, that can read all small csv file.&#10;add readBatch method that can read streaming large csv file.&#10;add some test case">
+      <created>1529770091750</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529770091750</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1245,13 +1252,13 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="28" width="1260" height="701" extended-state="0" />
+    <frame x="62" y="23" width="1260" height="701" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="Tool Output" />
       <window_info anchor="bottom" id="FindBugs-IDEA" weight="0.3294702" />
       <window_info anchor="right" id="sbt" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50246304" side_tool="true" visible="true" weight="0.3294702" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.41954023" side_tool="true" visible="true" weight="0.3294702" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -1267,10 +1274,10 @@
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.40066224" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.49753696" weight="0.3294702" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49343187" weight="0.3294702" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32922825" />
       <window_info anchor="bottom" id="CheckStyle" weight="0.3294702" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49753696" visible="true" weight="0.3294702" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.5804598" visible="true" weight="0.3294702" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294702" />
